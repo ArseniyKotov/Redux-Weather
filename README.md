@@ -1,25 +1,8 @@
-# ReduxSimpleStarter
+# Redux Weather
+> Weather Mointoring Application
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+ - This application integrates with two API's
+  1. Google Maps
+  2. Open Source Weather
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+ - Delivers weather data for any city in the US
